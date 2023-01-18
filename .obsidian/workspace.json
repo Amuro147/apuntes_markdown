@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Curvas ortogonales.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Curvas ortogonales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "Curvas ortogonales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "Curvas ortogonales.md"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "e223c2f2bed70d56",
   "lastOpenFiles": [
-    "Curvas ortogonales.md",
     "ecuaciones de cauchy-riemann.md",
-    "campos vectoriales.md",
     "Final Aplicada.md",
     "Funciones analiticas.md",
     "funciones armónicas conjugadas.md",
+    "test.md",
+    "Curvas ortogonales.md",
+    "campos vectoriales.md",
     "analiticas.md"
   ]
 }
