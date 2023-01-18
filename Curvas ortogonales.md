@@ -7,3 +7,4 @@ Si se aplica [[ecuaciones de cauchy-riemann|ECR]] a $dv$:
 $$\frac{dy}{dx}=-\frac{\partial v/\partial x}{\partial v/\partial y}=\frac{\partial u/\partial y}{\partial u/\partial x}$$
 Las expresiones representan las pendientes de las rectas tangentes a las funciones $u$ y $v$, respectivamente, haciendo el producto comprobamos que son perpendiculares:
 $$\left(-\frac{\partial u/\partial x}{\partial u/\partial y}\right)\left(-\frac{\partial v/\partial x}{\partial v/\partial y}\right)=\left(\frac{\partial v/\partial y}{\partial v/\partial x}\right)\left(-\frac{\partial v/\partial x}{\partial v/\partial y}\right)=-1$$
+.

@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e223c2f2bed70d56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curvas ortogonales.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curvas ortogonales.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curvas ortogonales.md"
+                "file": "test.md"
               }
             }
           }
@@ -195,10 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6f438e46ba72fba",
+  "active": "e223c2f2bed70d56",
   "lastOpenFiles": [
-    "ecuaciones de cauchy-riemann.md",
     "Curvas ortogonales.md",
+    "ecuaciones de cauchy-riemann.md",
     "campos vectoriales.md",
     "Final Aplicada.md",
     "Funciones analiticas.md",
